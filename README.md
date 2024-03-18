@@ -4,7 +4,7 @@
 
 <p>Sou um desenvolvedor full-stack e vivo em Blumenau, SC.</p>
 
-<p>Estou atualmente cursando o 2º ano do Ensino Médio na E. E. B. Professor João Widemann e estou buscando uma vaga na área da programação.</p>
+<p>Estou atualmente cursando o 2º ano do Ensino Médio na E. E. B. Professor João Widemann e estou buscando uma vaga na área do desenvolvimento web.</p>
 
 <p>Faço cursos na área da tecnologia desde 2017 e conheci a programação em 2020. </p>
 <p>Desde lá fiz cursos de HTML, CSS, JS e o curso do Entra 21 de desenvolvimento web com C#, onde aprendi como desenvolver aplicações web utilizando o ASP.NET MVC, APIs Web e também aprendi sobre bancos de dados, mais especificamente o MySQL.</p>
