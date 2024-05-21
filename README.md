@@ -12,7 +12,7 @@
 <p>Desde então, fiz cursos de HTML, CSS, JS e mais recentemente o curso do Entra 21 de desenvolvimento web com C#, que terminei em fevereiro de 2024, onde aprendi como desenvolver aplicações web no padrão ASP.NET MVC, criar e consumir APIs Web e também aprendi sobre bancos de dados, mais especificamente o MySQL.</p>
 <p>Também fiz cursos de inglês por 6 anos e hoje sou fluente na língua.</p>
 
-<p>Atualmente estou estudando Java por conta própria.</p>
+<p>Atualmente estou estudando desenvolvimento web com Web APIs Java com SpringBoot por conta própria.</p>
 
 <h2>Tecnologias</h2>
 
