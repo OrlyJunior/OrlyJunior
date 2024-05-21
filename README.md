@@ -23,5 +23,7 @@
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" heigth="200" width="200"/></img></td>
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" heigth="200" width="200"/></td>
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" heigth="200" width="200"/></td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" heigth="200" width="200"/></td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" heigth="200" width="200"/></td>
 </table>
 
