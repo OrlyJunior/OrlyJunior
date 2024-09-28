@@ -4,7 +4,7 @@
 
 <p>Sou um desenvolvedor full-stack e vivo em Blumenau, SC.</p>
 
-<p>Estou atualmente cursando o 2º ano do Ensino Médio na E. E. B. Professor João Widemann e estou buscando uma vaga na área do desenvolvimento web.</p>
+<p>Estou atualmente cursando o 2º ano do Ensino Médio na E. E. B. Professor João Widemann.</p>
 
 <h1>Sobre mim</h1>
 
