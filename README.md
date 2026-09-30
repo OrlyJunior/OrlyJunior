@@ -2,9 +2,9 @@
 
 <h1>👋 Olá, meu nome é Orly Júnior</h1>
 
-<p>Sou desenvolvedor de software na Senior Sistemas e vivo em Blumenau, SC.</p>
+<p>Sou Desenvolvedor de Software II na Senior Sistemas e vivo em Blumenau, SC.</p>
 
-<p>Estou atualmente cursando o 3º ano do Ensino Médio na E. E. B. Professor João Widemann.</p>
+<p>Estou atualmente cursando o Engenharia de Software na Uniasselvi.</p>
 
 <h1>Sobre mim</h1>
 
