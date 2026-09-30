@@ -10,7 +10,7 @@ Backend developer working with **Java and Spring Boot** at Senior Sistemas, on t
 
 ## Stack
 
-![Stack](https://skillicons.dev/icons?i=java,spring,postgres,redis,rabbitmq,docker,kubernetes,aws,git,angular)
+![Stack](https://skillicons.dev/icons?i=java,spring,postgres,redis,rabbitmq,aws,git,angular)
 
 Also: Keycloak · JPA/Hibernate · JUnit & Mockito · Flyway · Grafana · Prometheus · Kibana
 
