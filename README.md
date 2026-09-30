@@ -1,27 +1,25 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+# Hi, I'm Orly 👋
 
-<h1>👋 Olá, meu nome é Orly Júnior</h1>
+Backend developer working with **Java and Spring Boot** at Senior Sistemas, on the Identity and Access Management (IAM) team of the Senior X platform. Based in Blumenau, SC, Brazil.
 
-<p>Sou Desenvolvedor de Software II na Senior Sistemas e vivo em Blumenau, SC.</p>
+## What I work on
 
-<p>Estou atualmente cursando o Engenharia de Software na Uniasselvi.</p>
+- **Auth & identity:** Keycloak, JWT validation, federated login, custom Keycloak SPIs, and service-to-service authentication
+- **Backend services:** REST APIs and microservices with Spring Boot, PostgreSQL, Redis, and RabbitMQ
+- **Performance & reliability:** Redis caching, a Java 11 → 17 migration validated with k6 load tests, and production troubleshooting with Grafana, Prometheus, and OpenSearch
 
-<h1>Sobre mim</h1>
+## Stack
 
-<p>Faço cursos na área da tecnologia desde 2017 e conheci a programação em 2020. </p>
-<p>Desde então, fiz cursos de HTML, CSS, JS e mais recentemente o curso do Entra 21 de desenvolvimento web com C#, que terminei em fevereiro de 2024, onde aprendi como desenvolver aplicações web no padrão ASP.NET MVC, criar e consumir APIs Web e também aprendi sobre bancos de dados, mais especificamente o MySQL.</p>
-<p>Também fiz cursos de inglês por 6 anos e hoje sou fluente na língua.</p>
+![Stack](https://skillicons.dev/icons?i=java,spring,postgres,redis,rabbitmq,docker,kubernetes,aws,git,angular)
 
-<h2>Tecnologias</h2>
+Also: Keycloak · JPA/Hibernate · JUnit & Mockito · Flyway · Grafana · Prometheus · Kibana
 
-<table>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" heigth="200" width="200"/></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" heigth="200" width="200"/></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" heigth="200" width="200"/></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" heigth="200" width="200"/></img></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" heigth="200" width="200"/></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" heigth="200" width="200"/></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" heigth="200" width="200"/></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" heigth="200" width="200"/></td>
-</table>
+## Currently
 
+- 🎓 Software Engineering at UNIASSELVI (2026–2029)
+- ☁️ AWS Certified Cloud Practitioner
+- 🤖 Building side projects around AI coding agents and developer tooling
+
+## Contact
+
+[LinkedIn](https://linkedin.com/in/orly-jr) · orlyjunior21@gmail.com
