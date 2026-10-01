@@ -22,4 +22,4 @@ Also: Keycloak · JPA/Hibernate · JUnit & Mockito · Flyway · Grafana · Prome
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/orly-jr) · orlyjunior21@gmail.com
+[LinkedIn](https://linkedin.com/in/orly-jr)
